@@ -1,7 +1,6 @@
 {
   "store.home": {
     "blocks": [
-      "rich-text",
       "info-card#button-right",
       "info-card#button-left",
       "flex-layout.row",
@@ -52,7 +51,6 @@
       "textPosition": "center"
     }
   },
-  
   "flex-layout.col": {
     "children": [
       "image#electronics",
