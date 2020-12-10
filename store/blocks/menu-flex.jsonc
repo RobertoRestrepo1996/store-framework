@@ -1,7 +1,6 @@
 {
   "vtex.menu@2.x:submenu#major": {
-    "blocks": [
-      "vtex.menu@2.x:menu#major",
+    "children": [
       "flex-layout.row#major"
     ]
   },
