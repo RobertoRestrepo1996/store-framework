@@ -1,0 +1,27 @@
+{
+  "store.custom#landing": {
+    "blocks": [
+      "image#landingbanner",
+      "search-result-layout.customQuery"
+    ]
+  },
+  "image#landingbanner": {
+    "props": {
+      "minWidth": "100%",
+      "src": "https://www.vitalcigar.es/img/blog/los-vaper-estan-en-auge-el-mejor-vape-para-ti.jpg"
+    }
+  },
+  "search-result-layout.customQuery": {
+    "props": {
+      "querySchema": {
+        "orderByField": "OrderByReleaseDateDESC",
+        "hideUnavailableItems": true,
+        "maxItemsPerPage": 8,
+        "queryField": "Camera"
+      }
+    },
+    "blocks": [
+      "search-result-layout.desktop"
+    ]
+  }
+}
