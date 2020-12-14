@@ -4,7 +4,7 @@
       "flex-layout.row#major"
     ]
   },
-  "vtex.menu@2.x:menu#major": {
+/*   "vtex.menu@2.x:menu#major": {
     "children": [
       "menu-item#refrigerators",
       "menu-item#ovens",
@@ -13,7 +13,7 @@
     "props": {
       "orientation": "vertical"
     }
-  },
+  }, */
 
 
   
